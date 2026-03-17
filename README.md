@@ -3,8 +3,12 @@ This is a server-side only modpack that adds in shared resources, bigger lobbies
 
 Watch this pack in action: [https://www.twitch.tv/crazylttle](https://www.twitch.tv/crazylttle)
 
-Special thanks to [https://www.twitch.tv/zerobash_](https://www.twitch.tv/zerobash_)
-
 
 ## What's New?
+- Version 1.3.2 - Swapped shared upgrade mods
+- Version 1.3.0 - New mod lineup for updated REPO
+- Version 1.2.1 - Updated upgrade/health sync mods, infiniteammo mod, LATE join mod.
+- Version 1.1.0 - Updated mods for official release
+- Version 1.0.2 - swapped MorePlayers to RoboUnion 2025-05-31
+- Version 1.0.1 - Mod version updates to latest 2025-05-09
 - Version 1.0.0 - Initial commit
