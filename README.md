@@ -5,6 +5,8 @@ Watch this pack in action: [https://www.twitch.tv/crazylttle](https://www.twitch
 
 
 ## What's New?
+- Version 1.4.2 - Replaced energy crystal mod again, also added moreshopitems
+- Version 1.4.1 - Replaced energy crystal mod
 - Version 1.4.0 - Overhauled list of mods for REPO v0.4 update
 - Version 1.3.2 - Swapped shared upgrade mods
 - Version 1.3.0 - New mod lineup for updated REPO
